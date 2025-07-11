@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Triqui UI Exacta</title>
+  <link rel="stylesheet" href="assets/css/home.css">
+</head>
+
+<body>
+
+  <div class="top-panel">
+    <div class="panel"><span>Tiempo</span>
+      <div id="tiempo">00:00</div>
+    </div>
+    <div class="panel"><span>Partidas</span>
+      <div id="partidas">0</div>
+    </div>
+    <div class="panel"><span>Modo</span>
+      <div id="modo">2 Jugadores</div>
+    </div>
+  </div>
+
+  <div id="turno">Turno: Jugador #1</div>
+
+  <canvas id="game" width="300" height="300"></canvas>
+
+  <div class="scores">
+    <div class="score red">❌ J1 <div id="j1">0</div>
+    </div>
+    <div class="score">🤝 Empates <div id="empates">0</div>
+    </div>
+    <div class="score blue">⭕ J2 <div id="j2">0</div>
+    </div>
+  </div>
+
+  <div class="buttons">
+    <div class="button">🔄 Nueva Partida</div>
+    <div class="button red">🔄 Reiniciar</div>
+  </div>
+
+  <script src="assets/js/home.js"></script>
+</body>
+
+</html>
