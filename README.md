@@ -2,7 +2,7 @@
 
 Juego clásico de tres en raya desarrollado con JavaScript vanilla y Canvas HTML5.
 
-![Demo](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/juego-triqui.png)
+![Demo](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/juego-triqui-con-javascript.png)
 
 ## ✨ Características
 
