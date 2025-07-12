@@ -28,14 +28,16 @@ Juego clásico de tres en raya desarrollado con JavaScript vanilla y Canvas HTML
 - CSS3 con animaciones
 - Toast notifications
 
-## 📁 Estructura
+## 🙌 Cómo puedes apoyar 📢:
 
-```
-├── index.html          # Página principal
-├── assets/
-│   ├── css/
-│   │   └── home.css    # Estilos del juego
-│   └── js/
-│       └── home.js     # Lógica del juego
-└── README.md
-```
+✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
+
+☕ **Invítame un café o una cerveza 🍺**:
+   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+
+### ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
+
+
+#### ⭐ **Déjanos una estrella en GitHub**:
+   - Dicen que trae buena suerte 🍀.
+**Gracias por tu apoyo 🤓.**
